@@ -1,0 +1,78 @@
+/* 기본 스타일 초기화 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9ced4; /* 베이비핑크 배경 색상 */
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+header {
+    background-color: #f4b3d4; /* 조금 더 진한 핑크 색상 */
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+main {
+    margin-top: 20px;
+}
+
+.intro {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.intro h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.intro p {
+    font-size: 1.2em;
+}
+
+.content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.content h2 {
+    font-size: 1.8em;
+    margin-bottom: 20px;
+}
+
+.math-topic {
+    margin-bottom: 20px;
+}
+
+.math-topic h3 {
+    font-size: 1.5em;
+    color: #FF69B4;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #ffa3d1;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+    border-top: 2px solid #fff;
+}
+
+footer p {
+    font-size: 0.9em;
+}
