@@ -65,8 +65,8 @@ main {
 }
 
 footer {
-    background-color: #ffa3d1;
-    color: white;
+    background-color: #f7f7f7;
+    color: rgb(57, 56, 56);
     text-align: center;
     padding: 10px 0;
     margin-top: 20px;
